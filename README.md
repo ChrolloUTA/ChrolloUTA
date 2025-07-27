@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="URL_FOR_YOUR_CUSTOM_HEADER_GIF" alt="Header Banner" width="800px" />
   <h1 style="font-size: 3em; font-weight: bold;">Chrollo | UTA</h1>
   <p><strong>Lead Systems Engineer | Android & Embedded Systems</strong></p>
   <a href="URL_TO_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -34,8 +33,7 @@
 
 </div>
 
+<!-- The snake animation will appear here once the GitHub Action is set up. -->
 <div align="center">
-
-![Snake Animation](https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </div>
