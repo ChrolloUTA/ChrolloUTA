@@ -1,16 +1,16 @@
 <div align="center">
   <h1 style="font-size: 3.5em; font-weight: bold;">Chrollo | UTA</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Samsung+Module+Specialist;Master+of+Hide-and-Seek+(for+Root))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Development+Enthusiast;Exploring+Samsung+Device+Modding;Learning+Root+and+System+Internals)](https://git.io/typing-svg)
 </div>
 
 ---
 
-### Hello there! 👋
+### Hello there! I'm a new developer diving into Android 👋
 
-I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
+I'm fascinated by the world of custom modules for Samsung devices and am currently learning the art of root hiding. It's a huge world, and I'm excited to explore it!
 
-> My current mission: Porting the best One UI features to more devices, all while keeping root completely invisible. 👻
+> My current learning goal: To understand how to port One UI features and master the techniques for keeping root invisible. 👻
 
 ---
 
@@ -29,7 +29,7 @@ I'm an Android developer who enjoys tinkering with Samsung devices. My specialty
 </p>
 
 ---
-### Technical Arsenal
+### My Learning Toolkit 🛠️
 
 <div align="center">
   <p><strong>Core Languages</strong></p>
@@ -56,5 +56,5 @@ I'm an Android developer who enjoys tinkering with Samsung devices. My specialty
 
 ---
 <p align="center">
-  <i>Feel free to explore my repositories. Happy coding! 🚀</i>
+  <i>Join me on my learning journey! Happy coding! 🚀</i>
 </p>
