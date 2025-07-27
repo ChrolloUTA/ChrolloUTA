@@ -22,28 +22,11 @@ I am a developer from Egypt specializing in Linux and Android systems. I'm deepl
 </p>
 
 ---
-### Languages and Tools:
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">System & Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,rust,python,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Mobile & Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=android,html,css,js"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Tools & IDE's:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,docker"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,arch,ubuntu"/></td>
-    </tr>
-</table>
+### Core Technology Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,android,c,cpp,java,kotlin,rust,python,bash,html,css,js,git,github,gitlab,vscode,neovim,androidstudio,docker&perline=11&theme=dark" />
+  </a>
+</p>
 
 ---
