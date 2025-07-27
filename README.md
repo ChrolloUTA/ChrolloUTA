@@ -1,4 +1,12 @@
-### Hello there! I'm Chrollo | UTA 👋
+<div align="center">
+  <h1 style="font-size: 3.5em; font-weight: bold;">Chrollo | UTA</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Samsung+Module+Specialist;Master+of+Hide-and-Seek+(for+Root))](https://git.io/typing-svg)
+</div>
+
+---
+
+### Hello there! 👋
 
 I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
 
