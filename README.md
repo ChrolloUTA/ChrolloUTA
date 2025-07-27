@@ -5,7 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Development+Learner;Building+Root+Modules;Just+trying+not+to+brick+my+phone...+%F0%9F%98%89)](https://git.io/typing-svg)
   
   <!-- This is the new, stable text you requested -->
-  <p align="center">
+  <p align="left">
     <i>Exploring root hiding ways... 🔎</i>
   </p>
 </div>
