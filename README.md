@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3.5em; font-weight: bold;">| UTAャ</h1>
+  <h1 style="font-size: 3.5em; font-weight: bold;">Chrollo | UTAャ</h1>
   
   <!-- This is your new, custom animation -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Development+Learner;Exploring+Root+Modules;Just+trying+not+to+brick+my+phone...+%F0%9F%98%89)](https://git.io/typing-svg)
