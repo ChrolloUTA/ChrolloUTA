@@ -1,60 +1,23 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="URL_FOR_YOUR_HEADER_IMAGE" alt="Professional Header"/>
-</p>
+<div align="center">
+  <h1 style="font-size: 3em; font-weight: bold;">Chrollo | UTA</h1>
+  <p><strong>Lead Systems Engineer | Android & Embedded Systems</strong></p>
+  <p>
+    <a href="URL_TO_YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
-<h1 align="center">Chrollo | UTA</h1>
+---
+
+Seasoned engineer with a focus on low-level system development, performance optimization, and security hardening for the Android OS. Committed to building robust, efficient, and secure software from the kernel up.
+
+### Core Technology Proficiencies
+
 <p align="center">
-  <strong>Lead Software Engineer | Android OS Division</strong>
-  <br />
-  <em>Specializing in System Performance & Security</em>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,rust,bash,linux,git" alt="Core Technologies">
 </p>
 
 ---
 
-<!-- Core Competencies Section -->
-<h3 align="center">Core Competencies</h3>
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Languages</strong>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>- Kotlin</li>
-        <li>- Java</li>
-        <li>- C / C++</li>
-        <li>- Python</li>
-        <li>- Bash</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <strong>Platforms & Frameworks</strong>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>- Android OS (AOSP)</li>
-        <li>- Android SDK / NDK</li>
-        <li>- Samsung Knox</li>
-        <li>- Linux Kernel</li>
-        <li>- Tizen</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <strong>Tools & Environments</strong>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>- Git / Gerrit</li>
-        <li>- Android Studio</li>
-        <li>- Gradle</li>
-        <li>- Docker</li>
-        <li>- Jenkins</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- GitHub Analytics Section -->
-<h3 align="center">Contribution Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="ChrolloUTA's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloUTA&layout=compact&langs_count=8&theme=tokyonight" alt="ChrolloUTA's Top Languages"/>
-</p>
+### Pinned Projects
+*Below are my most significant contributions and personal projects.*
