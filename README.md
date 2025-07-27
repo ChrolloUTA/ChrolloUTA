@@ -8,9 +8,9 @@
 
 ### Hello there! 👋
 
-Welcome to my digital workshop! I'm an Android developer who treats Samsung devices like a puzzle box. My specialty is building the keys (custom modules) and teaching root the fine art of invisibility.
+I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
 
-> **Currently on a quest:** To liberate the best One UI features for more devices, ensuring root stays a ghost in the machine. 👻
+> My current mission: Porting the best One UI features to more devices, all while keeping root completely invisible. 👻
 
 ---
 
