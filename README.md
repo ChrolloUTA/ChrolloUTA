@@ -1,9 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
+  <h1 style="font-size: 3.5em; font-weight: bold;">UTAャ</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Samsung+Module+Specialist;Master+of+Hide-and-Seek+(for+Root))](https://git.io/typing-svg)
+</div>
+
+---
+
+### Hello there! 👋
 
 I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
 
-<h3>Things I code with</h3>
-<p>
+---
+
+### Things I code with
+<p align="center">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
