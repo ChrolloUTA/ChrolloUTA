@@ -32,3 +32,8 @@ I'm an Android developer who enjoys tinkering with Samsung devices. My specialty
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
+
+---
+<p align="center">
+  <i>Feel free to explore my repositories. Happy coding! 🚀</i>
+</p>
