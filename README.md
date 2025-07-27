@@ -22,20 +22,6 @@ I am a developer from Egypt specializing in Linux and Android systems. I'm deepl
 </p>
 
 ---
-### My Activity:
-
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChrolloUTA&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloUTA&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloUTA&&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 ### Languages and Tools:
 <table>
     <tr>
