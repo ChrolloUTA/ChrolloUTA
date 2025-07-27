@@ -1,54 +1,63 @@
-<div align="center" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
+### Hello there, I'm Chrollo | UTA 👋
 
-  <!-- Dynamic Header -->
-  <h1 style="font-size: 3.5em; font-weight: bold; color: #E5E9F0;">Chrollo | UTA</h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=88C0D0¢er=true&vCenter=true&width=500&lines=Systems+Engineer;Android+OS+Architect;Low-Level+Performance+Specialist)](https://git.io/typing-svg)
-  <br>
-</div>
+I am a developer from Egypt specializing in Linux and Android systems. I'm deeply involved in the Android development community, building personal projects and exploring the depths of system-level engineering in my spare time.
 
----
-
-<!-- Data Block Grid -->
-<table>
-<tr valign="top">
-
-<!-- Block 1: Mission Statement -->
-<td width="50%">
-<h3 align="center"> MISSION LOG </h3>
-<p align="center">
-  <i>"Architecting robust, secure, and high-performance software solutions for the Android ecosystem. My focus is on system-level engineering and creating technology that is both powerful and reliable."</i>
-</p>
-</td>
-
-<!-- Block 2: Contact & Access -->
-<td width="50%">
-<h3 align="center"> SECURE CHANNEL </h3>
-<p align="center">
-  <a href="URL_TO_YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <br>
-  <a href="mailto:YOUR_PROFESSIONAL_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-</td>
-</tr>
-</table>
+- 🔭 I’m currently focused on projects integrating core UNIX commands into the Android Root environment.
+- 🌱 I’m currently learning: Advanced Java, Kernel Development, and Rust.
 
 ---
 
-### <p align="center">CORE TECHNOLOGY MATRIX</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,android,c,cpp,rust,python,kotlin,java,bash,git,docker&theme=dark" />
+### Connect with Me
+<p align="left">
+  <a href="URL_TO_YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="URL_TO_YOUR_TWITTER_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ChrolloUTA&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
 ---
+### My Activity:
 
-### <p align="center">LIVE PERFORMANCE ANALYTICS</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=nord&include_all_commits=true&count_private=true&border_color=2e3440&bg_color=2e3440&title_color=88c0d0&text_color=e5e9f0" alt="GitHub Stats"/>
-</div>
-<br>
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChrolloUTA&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrolloUTA&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrolloUTA&&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+### Languages and Tools:
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">System & Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,rust,python,bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Mobile & Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=android,html,css,js"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Tools & IDE's:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,docker"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux,arch,ubuntu"/></td>
+    </tr>
+</table>
+
+---
