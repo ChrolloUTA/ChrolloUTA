@@ -10,8 +10,6 @@
 
 I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
 
-> My current mission: Porting the best One UI features to more devices, all while keeping root completely invisible. 👻
-
 ---
 
 ### Connect with Me
