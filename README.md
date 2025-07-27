@@ -9,11 +9,11 @@ I am a developer from Egypt specializing in Linux and Android systems. I'm deepl
 
 ### Connect with Me
 <p align="left">
-  <a href="URL_TO_YOUR_LINKEDIN_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://t.me/UTA_storage" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
   </a>
-  <a href="URL_TO_YOUR_TWITTER_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://t.me/UTA_storage_chat" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat Group">
   </a>
 </p>
 
