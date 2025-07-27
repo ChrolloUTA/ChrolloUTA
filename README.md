@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1 style="font-size: 3.5em; font-weight: bold;">UTAャ</h1>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Samsung+Module+Specialist;Master+of+Hide-and-Seek+(for+Root))](https://git.io/typing-svg)
