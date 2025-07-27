@@ -1,37 +1,44 @@
-<div align="center">
-  <!-- New, more professional header -->
-  <h1 style="font-size: 3.5em; font-weight: bold; border-bottom: 2px solid #30363d; padding-bottom: 10px;">UTAャ</h1>
-  <p><i>"The developer who whispers to Samsung devices."</i></p>
-  
-  <!-- New, action-oriented typing animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Porting+exclusive+One+UI+features...;Crafting+root-hiding+solutions...;Exploring+system-level+secrets...+%F0%9F%94%91)](https://git.io/typing-svg)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/ChrolloUTA/ChrolloUTA/main/assets/UTA_Banner.png" alt="UTA Banner"/>
 </div>
 
 <br>
 
-### Welcome to the Workshop! 🛠️
-
-You've found my corner of GitHub. I specialize in building custom modules that unlock the true potential of Samsung devices.
-
-My main focus is the fine art of the **vanishing act**—making root access completely undetectable. One moment it's there, the next... it isn't. 👻
-
----
-
-### Connect with Me
-<p align="left">
-  <a href="https://t.me/UTA_storage" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
-  </a>
-  <a href="https://t.me/UTA_storage_chat" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat Group">
-  </a>
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ChrolloUTA&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
+<div align="center">
+  <h1 style="font-size: 2.5em; font-weight: bold; color: #E5E9F0;">UTAャ</h1>
+  <i>"The developer who teaches root the art of invisibility."</i>
+</div>
 
 ---
+
+### <p align="center">⚡ About Me</p>
+
 <p align="center">
-  <i>Feel free to explore my repositories. Happy coding! 🚀</i>
+  I'm an Android developer with a deep fascination for Samsung's ecosystem. My work is a blend of reverse engineering and creative development, focusing on building custom modules that unlock a device's true potential. If it's a system-level puzzle, I'm here to solve it.
 </p>
+
+---
+
+### <p align="center">🔗 Connect & Stats</p>
+
+<div align="center">
+  <p>
+    <a href="https://t.me/UTA_storage" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+    </a>
+    <a href="https://t.me/UTA_storage_chat" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-Chat%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat Group">
+    </a>
+  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=transparent&border_color=FFFFFF00&bg_color=0D1117&title_color=2CA5E0&text_color=E5E9F0" alt="GitHub Stats"/>
+</div>
+
+---
+
+### <p align="center">🛠️ My Toolkit</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,android,c,cpp,rust,kotlin,java,python,bash,git,github,docker,vscode,neovim,androidstudio&theme=dark" />
+</div>
+
+<br>
