@@ -1,9 +1,8 @@
 ### Hello there, I'm Chrollo | UTA 👋
 
-I am a developer from Egypt specializing in Linux and Android systems. I'm deeply involved in the Android development community, building personal projects and exploring the depths of system-level engineering in my spare time.
+I am an Android developer specializing in custom modules for Samsung devices and advanced root-hiding techniques.
 
-- 🔭 I’m currently focused on projects integrating core UNIX commands into the Android Root environment.
-- 🌱 I’m currently learning: Advanced Java, Kernel Development, and Rust.
+- 🔭 I architect modules to port One UI features, with a core focus on undetectable root.
 
 ---
 
