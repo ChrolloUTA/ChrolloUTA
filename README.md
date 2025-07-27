@@ -1,8 +1,8 @@
-### Hello there, I'm Chrollo | UTA 👋
+### Hello there! I'm Chrollo | UTA 👋
 
-I am an Android developer specializing in custom modules for Samsung devices and advanced root-hiding techniques.
+I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
 
-- 🔭 I architect modules to port One UI features, with a core focus on undetectable root.
+> My current mission: Porting the best One UI features to more devices, all while keeping root completely invisible. 👻
 
 ---
 
@@ -47,3 +47,6 @@ I am an Android developer specializing in custom modules for Samsung devices and
 </div>
 
 ---
+<p align="center">
+  <i>Feel free to explore my repositories. Happy coding! 🚀</i>
+</p>
