@@ -1,63 +1,83 @@
-<!-- Header: Your Name and Title -->
-<div align="center">
-  <h1 style="font-weight: bold; border-bottom: 2px solid #2e3440;">Chrollo | UTA</h1>
-  <p>Software Engineer │ Android Systems & Embedded Linux</p>
-</div>
-<br>
+<div style="font-family: 'Lucida Console', 'Courier New', monospace; background-color: #008080; border: 2px solid #fff; padding: 15px;">
 
-<!-- Main Content: Two Columns -->
+<!-- Main Desktop Area with Windows -->
 <table>
 <tr valign="top">
 
-<!-- Left Column: Focus on Work -->
-<td width="65%">
-
-### 📌 Pinned Projects
-
-*This is the most important section. Your work defines you.*
-
-1.  **[Project Name 1]** - A short, one-line description of the project's purpose and impact.
-2.  **[Project Name 2]** - A short, one-line description of the project's purpose and impact.
-3.  **[Project Name 3]** - A short, one-line description of the project's purpose and impact.
-
-<br>
-
-### 🛠️ Core Technology Stack
-
--   **Languages:** Kotlin, C/C++, Rust, Python, Go, Shell
--   **Platforms:** Android (AOSP), Linux (Kernel), QEMU
--   **Tools:** Git, Docker, Gradle, Neovim, ADB
-
+<!-- Window 1: User Profile -->
+<td width="55%">
+<table width="100%" style="border: 2px outset #fff; background-color: #c0c0c0;">
+  <tr style="background-color: #000080; color: #fff;">
+    <td style="padding: 3px 5px;"><b>▋readme.txt - Notepad</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; background-color: #fff; border: 1px solid #808080; font-size: 14px; line-height: 1.6;">
+      <b>IDENTITY:</b> Chrollo | UTA<br>
+      <b>LOCATION:</b> Cairo, Egypt<br>
+      <b>STATUS:</b> Systems Architect<br><br>
+      <b>MISSION:</b> Engineering robust and efficient software for the Android OS. Specializing in low-level optimization and system security architecture.
+    </td>
+  </tr>
+</table>
 </td>
 
-<!-- Right Column: Profile & Stats -->
-<td width="35%">
+<!-- Window 2: Skills Matrix -->
+<td width="45%">
+<table width="100%" style="border: 2px outset #fff; background-color: #c0c0c0;">
+  <tr style="background-color: #000080; color: #fff;">
+    <td style="padding: 3px 5px;"><b>▋config.sys</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; background-color: #fff; border: 1px solid #808080; font-size: 12px;">
+      <b>LOADED_MODULES:</b><br>
+      <code>[ C/C++ ]</code> <code>[ KOTLIN ]</code><br>
+      <code>[ RUST ]</code> <code>[ PYTHON ]</code><br>
+      <code>[ ANDROID_AOSP ]</code><br>
+      <code>[ LINUX_KERNEL ]</code><br><br>
+      <b>UTILITIES:</b><br>
+      <code>[ GIT ]</code> <code>[ DOCKER ]</code><br>
+      <code>[ GHIDRA ]</code> <code>[ ADB ]</code>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
 
-### 🍵 Profile
-
--   **Name:** Chrollo (クロロ)
--   **Location:** Cairo, Egypt
--   **Focus:** Systems Engineering
-
+<tr valign="top">
+<!-- Window 3: File Explorer for Projects & Contact -->
+<td colspan="2">
 <br>
-
-### 🔗 Links
-
--   **[LinkedIn]**
--   **[Zenn.dev]** or **[Qiita]**
--   **[Homepage]**
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloUTA&layout=compact&theme=catppuccin_macchiato" alt="Top Languages" />
-</p>
-
+<table width="100%" style="border: 2px outset #fff; background-color: #c0c0c0;">
+  <tr style="background-color: #000080; color: #fff;">
+    <td style="padding: 3px 5px;"><b>▋File Explorer</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; background-color: #fff; border: 1px solid #808080; font-size: 14px; line-height: 1.8;">
+      <b>C:\> dir /w</b><br>
+      <br>
+      <b>[PROJECTS]</b>       <b>[CONTACT]</b><br>
+      <a href="PROJECT_URL_1">Project-One.exe</a>  <a href="URL_TO_YOUR_LINKEDIN">LinkedIn.url</a><br>
+      <a href="PROJECT_URL_2">Project-Two.exe</a>  <a href="mailto:YOUR_EMAIL_HERE">Email.eml</a><br>
+      <a href="PROJECT_URL_3">Project-Three.exe</a>  <a href="https://t.me/YOUR_TELEGRAM_ID">Telegram.lnk</a><br>
+    </td>
+  </tr>
+</table>
 </td>
 </tr>
 </table>
 
-<!-- Footer: Contribution Graph -->
-<div align="center">
-  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
+<!-- Taskbar -->
+<br>
+<div style="border-top: 2px outset #fff; background-color: #c0c0c0; padding: 4px; display: flex; align-items: center;">
+  <div style="border: 2px outset #fff; padding: 2px 8px; font-weight: bold; background-color: #c0c0c0;">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="16" alt="Start Icon"/> Start
+  </div>
+  <div style="flex-grow: 1; border-left: 2px solid #808080; border-right: 2px solid #808080; margin: 0 5px;"></div>
+  <div style="border: 2px inset #fff; padding: 0 5px;">
+    <b>EG</b> Egypt
+  </div>
+  <div style="border: 2px inset #fff; padding: 0 5px;">
+    🕒 10:24 PM
+  </div>
+</div>
 </div>
