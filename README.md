@@ -1,14 +1,19 @@
-<div align="left">
-  <h1 style="font-size: 3.5em; font-weight: bold;">UTAャ</h1>
+<div align="center">
+  <!-- New, more professional header -->
+  <h1 style="font-size: 3.5em; font-weight: bold; border-bottom: 2px solid #30363d; padding-bottom: 10px;">UTAャ</h1>
+  <p><i>"The developer who whispers to Samsung devices."</i></p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Samsung+Module+Specialist;Master+of+Hide-and-Seek+(for+Root))](https://git.io/typing-svg)
+  <!-- New, action-oriented typing animation -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Porting+exclusive+One+UI+features...;Crafting+root-hiding+solutions...;Exploring+system-level+secrets...+%F0%9F%94%91)](https://git.io/typing-svg)
 </div>
 
----
+<br>
 
-### Hello there! 👋
+### Welcome to the Workshop! 🛠️
 
-I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
+You've found my corner of GitHub. I specialize in building custom modules that unlock the true potential of Samsung devices.
+
+My main focus is the fine art of the **vanishing act**—making root access completely undetectable. One moment it's there, the next... it isn't. 👻
 
 ---
 
