@@ -1,39 +1,74 @@
 <div align="center">
-  <h1 style="font-size: 3em; font-weight: bold;">Chrollo | UTA</h1>
-  <p><strong>Lead Systems Engineer | Android & Embedded Systems</strong></p>
-  <a href="URL_TO_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="URL_TO_YOUR_XDA_PROFILE"><img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"></a>
-</div>
+  <a href="https://github.com/ChrolloUTA">
+    <img src="URL_TO_YOUR_HEADER_BANNER_IMAGE" alt="Chrollo | UTA Banner">
+  </a>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF¢er=true&vCenter=true&width=600&lines=Architecting+Robust+Android+Systems;Low-Level+Performance+Optimization;System+Security+%26+Hardening;Building+the+Future+of+Mobile+OS)](https://git.io/typing-svg)
-
+  ![visitors](https://komarev.com/ghpvc/?username=ChrolloUTA&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square)
 </div>
 
 ---
 
-### <p align="center">Core Technology Stack</p>
+### 👨‍💻 About Me:
+- I am a passionate developer from [Your Country] with a deep interest in Android systems, security, and low-level optimization.
+- I am always driven to improve my knowledge and build robust, high-performance software.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,android,c,cpp,java,kotlin,python,rust,bash,docker,git&perline=6" />
-  </a>
+---
+
+### 📬 You can reach me out via:
+<p align="left">
+  <a href="URL_TO_YOUR_TELEGRAM_PROFILE" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
 
-### <p align="center">Contribution Analytics & Trophies</p>
+### 💻 Programming Languages:
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shell_Script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+</p>
 
+---
+
+### 🛠️ IDEs I use:
+<p align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+</p>
+
+---
+
+### 🌍 Operating Systems I use:
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
+
+---
+
+### 📊 GitHub Stats:
 <div align="center">
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/ChrolloUTA)
-
-[![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ChrolloUTA&theme=tokyonight&no-bg=true&no-frame=true&column=-1&row=1)](https://github.com/ChrolloUTA)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloUTA&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
-<!-- The snake animation will appear here once the GitHub Action is set up. -->
+---
+
+### 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChrolloUTA&theme=tokyonight&no-bg=true&no-frame=true&column=7&row=1" alt="GitHub Trophies">
 </div>
+
+---
+
+### ❤️ You can support me by:
+<p align="left">
+  <a href="URL_TO_YOUR_BUYMEACOFFEE_PAGE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" ></a>
+</p>
+
+---
