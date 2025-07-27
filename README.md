@@ -1,55 +1,55 @@
+<div style="font-family: 'Courier New', Courier, monospace;">
 <div align="center">
-  <h1 style="font-size: 3em; font-weight: bold; border-bottom: 2px solid #30363d;">Chrollo | UTA</h1>
-  <p><strong>Lead Systems Engineer │ Android OS & Low-Level Performance</strong></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF7F¢er=true&vCenter=true&width=435&lines=Booting+CHROLLO-OS...;System+Check%3A+OK;Loading+User+Profile...)](https://git.io/typing-svg)
+
 </div>
 
----
+```bash
+# ██████╗██╗  ██╗██████╗  ██████╗ ██╗     ██╗      ██████╗ 
+# ██╔════╝██║  ██║██╔══██╗██╔═══██╗██║     ██║     ██╔════╝ 
+# ██║     ███████║██████╔╝██║   ██║██║     ██║     ██║  ███╗
+# ██║     ██╔══██║██╔══██╗██║   ██║██║     ██║     ██║   ██║
+# ╚██████╗██║  ██║██║  ██║╚██████╔╝███████╗███████╗╚██████╔╝
+#  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ 
+#
+#                    UTA - User Terminal Access
 
-<table>
-<tr valign="top">
-<td width="50%">
+# -----------------------------------------------------------------
+# >> SYSTEM STATUS: OPERATIONAL
+# -----------------------------------------------------------------
 
-### 💡 About Me
-
-I am a systems engineer specializing in the Android ecosystem. My work focuses on performance optimization, security hardening, and building robust, efficient software from the kernel level upwards. I thrive on solving complex problems and architecting solutions that are built to last.
-
----
-
-### 🛠️ Core Technology Stack
-
-- **Languages:** C/C++, Kotlin, Java, Python, Rust, Bash
-- **Platforms:** Android (AOSP), Embedded Linux
-- **Tools:** Git, Docker, Android Studio, Neovim, ADB
-- **Concepts:** System Internals, Concurrency, Security
+# [user@chrollo-os ~]$ cat ./profile.md
 
 ---
-
-### 📫 Get In Touch
-
-<p>
-  <a href="URL_TO_YOUR_LINKEDIN_PROFILE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ChrolloUTA-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:YOUR_PROFESSIONAL_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_Touch-red?style=flat-square&logo=gmail"></a>
-</p>
-
-</td>
-<td width="50%">
-
-### 📈 Live GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="ChrolloUTA's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloUTA&layout=compact&theme=merko" alt="ChrolloUTA's Top Languages" />
-</p>
-
-</td>
-</tr>
-</table>
+### **[●] IDENTITY**
+- **Codename:** Chrollo | UTA
+- **Location:** Cairo, Egypt
+- **Specialization:** Android Systems & Security Architecture
 
 ---
+### **[●] CORE DIRECTIVES**
+- **// 01:** Architecting high-performance Android ROMs.
+- **// 02:** Reverse-engineering system-level binaries.
+- **// 03:** Developing next-generation Magisk & KernelSU modules.
+- **// 04:** Automating everything with Bash & Python.
 
-### 🐍 My Contribution Graph
+---
+### **[●] TECH STACK // KERNEL MODULES LOADED**
+- **OS:**         [ Linux (Kernel) ] [ Android (AOSP) ]
+- **Languages:**  [ Kotlin ] [ C/C++ ] [ Rust ] [ Python ] [ Java ]
+- **Tools:**      [ Git ] [ Docker ] [ Neovim ] [ ADB ] [ Ghidra ]
 
+---
+### **[●] SECURE CONNECTION // ESTABLISH CONTACT**
+- **[LinkedIn]**  (https://linkedin.com/in/YOUR_LINKEDIN_ID)
+- **[Telegram]**  (https://t.me/YOUR_TELEGRAM_USERNAME)
+- **[Matrix]**    (https://matrix.to/#/@YOUR_MATRIX_ID:matrix.org)
+
+---
+### **[●] LIVE SYSTEM ANALYTICS**
 <div align="center">
-  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
+
+# [user@chrollo-os ~]$ █
