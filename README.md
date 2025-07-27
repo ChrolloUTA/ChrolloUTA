@@ -1,13 +1,26 @@
-### Hello there! I'm Chrollo | UTA 👋
-
-I'm an Android developer who enjoys tinkering with Samsung devices. My specialty? Building custom modules and teaching root how to play an expert-level game of hide-and-seek.
-
-> My current mission: Porting the best One UI features to more devices, all while keeping root completely invisible. 👻
+<div align="center">
+  <h1 style="font-size: 3.5em; font-weight: bold;">Chrollo | UTA</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2388F7¢er=true&vCenter=true&width=500&lines=Android+Systems+Engineer;Samsung+Module+Specialist;Master+of+Hide-and-Seek+(for+Root))](https://git.io/typing-svg)
+</div>
 
 ---
 
-### Connect with Me
-<p align="left">
+<table>
+<tr valign="top">
+<td width="60%">
+
+### **Hello there! 👋**
+
+I'm an Android developer who finds joy in exploring the limits of Samsung devices. My main playground involves building custom modules and making root play an expert-level game of hide-and-seek with system apps.
+
+My current quest? Architecting modules that bring exclusive One UI features to a wider range of devices, all while keeping root completely undetectable. 👻
+
+---
+
+### **Let's Connect**
+
+<p>
   <a href="https://t.me/UTA_storage" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
   </a>
@@ -16,12 +29,20 @@ I'm an Android developer who enjoys tinkering with Samsung devices. My specialty
   </a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ChrolloUTA&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
+</td>
+<td width="40%" align="center">
+
+### **Live Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=ChrolloUTA&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
+</td>
+</tr>
+</table>
 
 ---
-### Technical Arsenal
+### My Toolkit 🧰
 
 <div align="center">
   <p><strong>Core Languages</strong></p>
@@ -48,5 +69,5 @@ I'm an Android developer who enjoys tinkering with Samsung devices. My specialty
 
 ---
 <p align="center">
-  <i>Feel free to explore my repositories. Happy coding! 🚀</i>
+  <i>Feel free to dive into my code! 🚀</i>
 </p>
