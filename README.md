@@ -1,55 +1,63 @@
-<div style="font-family: 'Courier New', Courier, monospace;">
+<!-- Header: Your Name and Title -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF7F¢er=true&vCenter=true&width=435&lines=Booting+CHROLLO-OS...;System+Check%3A+OK;Loading+User+Profile...)](https://git.io/typing-svg)
-
+  <h1 style="font-weight: bold; border-bottom: 2px solid #2e3440;">Chrollo | UTA</h1>
+  <p>Software Engineer │ Android Systems & Embedded Linux</p>
 </div>
+<br>
 
-```bash
-# ██████╗██╗  ██╗██████╗  ██████╗ ██╗     ██╗      ██████╗ 
-# ██╔════╝██║  ██║██╔══██╗██╔═══██╗██║     ██║     ██╔════╝ 
-# ██║     ███████║██████╔╝██║   ██║██║     ██║     ██║  ███╗
-# ██║     ██╔══██║██╔══██╗██║   ██║██║     ██║     ██║   ██║
-# ╚██████╗██║  ██║██║  ██║╚██████╔╝███████╗███████╗╚██████╔╝
-#  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ 
-#
-#                    UTA - User Terminal Access
+<!-- Main Content: Two Columns -->
+<table>
+<tr valign="top">
 
-# -----------------------------------------------------------------
-# >> SYSTEM STATUS: OPERATIONAL
-# -----------------------------------------------------------------
+<!-- Left Column: Focus on Work -->
+<td width="65%">
 
-# [user@chrollo-os ~]$ cat ./profile.md
+### 📌 Pinned Projects
 
----
-### **[●] IDENTITY**
-- **Codename:** Chrollo | UTA
-- **Location:** Cairo, Egypt
-- **Specialization:** Android Systems & Security Architecture
+*This is the most important section. Your work defines you.*
 
----
-### **[●] CORE DIRECTIVES**
-- **// 01:** Architecting high-performance Android ROMs.
-- **// 02:** Reverse-engineering system-level binaries.
-- **// 03:** Developing next-generation Magisk & KernelSU modules.
-- **// 04:** Automating everything with Bash & Python.
+1.  **[Project Name 1]** - A short, one-line description of the project's purpose and impact.
+2.  **[Project Name 2]** - A short, one-line description of the project's purpose and impact.
+3.  **[Project Name 3]** - A short, one-line description of the project's purpose and impact.
 
----
-### **[●] TECH STACK // KERNEL MODULES LOADED**
-- **OS:**         [ Linux (Kernel) ] [ Android (AOSP) ]
-- **Languages:**  [ Kotlin ] [ C/C++ ] [ Rust ] [ Python ] [ Java ]
-- **Tools:**      [ Git ] [ Docker ] [ Neovim ] [ ADB ] [ Ghidra ]
+<br>
 
----
-### **[●] SECURE CONNECTION // ESTABLISH CONTACT**
-- **[LinkedIn]**  (https://linkedin.com/in/YOUR_LINKEDIN_ID)
-- **[Telegram]**  (https://t.me/YOUR_TELEGRAM_USERNAME)
-- **[Matrix]**    (https://matrix.to/#/@YOUR_MATRIX_ID:matrix.org)
+### 🛠️ Core Technology Stack
 
----
-### **[●] LIVE SYSTEM ANALYTICS**
+-   **Languages:** Kotlin, C/C++, Rust, Python, Go, Shell
+-   **Platforms:** Android (AOSP), Linux (Kernel), QEMU
+-   **Tools:** Git, Docker, Gradle, Neovim, ADB
+
+</td>
+
+<!-- Right Column: Profile & Stats -->
+<td width="35%">
+
+### 🍵 Profile
+
+-   **Name:** Chrollo (クロロ)
+-   **Location:** Cairo, Egypt
+-   **Focus:** Systems Engineering
+
+<br>
+
+### 🔗 Links
+
+-   **[LinkedIn]**
+-   **[Zenn.dev]** or **[Qiita]**
+-   **[Homepage]**
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrolloUTA&layout=compact&theme=catppuccin_macchiato" alt="Top Languages" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- Footer: Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
 </div>
-
-# [user@chrollo-os ~]$ █
