@@ -1,83 +1,54 @@
-<div style="font-family: 'Lucida Console', 'Courier New', monospace; background-color: #008080; border: 2px solid #fff; padding: 15px;">
+<div align="center" style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
 
-<!-- Main Desktop Area with Windows -->
+  <!-- Dynamic Header -->
+  <h1 style="font-size: 3.5em; font-weight: bold; color: #E5E9F0;">Chrollo | UTA</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=88C0D0¢er=true&vCenter=true&width=500&lines=Systems+Engineer;Android+OS+Architect;Low-Level+Performance+Specialist)](https://git.io/typing-svg)
+  <br>
+</div>
+
+---
+
+<!-- Data Block Grid -->
 <table>
 <tr valign="top">
 
-<!-- Window 1: User Profile -->
-<td width="55%">
-<table width="100%" style="border: 2px outset #fff; background-color: #c0c0c0;">
-  <tr style="background-color: #000080; color: #fff;">
-    <td style="padding: 3px 5px;"><b>▋readme.txt - Notepad</b></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; background-color: #fff; border: 1px solid #808080; font-size: 14px; line-height: 1.6;">
-      <b>IDENTITY:</b> Chrollo | UTA<br>
-      <b>LOCATION:</b> Cairo, Egypt<br>
-      <b>STATUS:</b> Systems Architect<br><br>
-      <b>MISSION:</b> Engineering robust and efficient software for the Android OS. Specializing in low-level optimization and system security architecture.
-    </td>
-  </tr>
-</table>
+<!-- Block 1: Mission Statement -->
+<td width="50%">
+<h3 align="center"> MISSION LOG </h3>
+<p align="center">
+  <i>"Architecting robust, secure, and high-performance software solutions for the Android ecosystem. My focus is on system-level engineering and creating technology that is both powerful and reliable."</i>
+</p>
 </td>
 
-<!-- Window 2: Skills Matrix -->
-<td width="45%">
-<table width="100%" style="border: 2px outset #fff; background-color: #c0c0c0;">
-  <tr style="background-color: #000080; color: #fff;">
-    <td style="padding: 3px 5px;"><b>▋config.sys</b></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; background-color: #fff; border: 1px solid #808080; font-size: 12px;">
-      <b>LOADED_MODULES:</b><br>
-      <code>[ C/C++ ]</code> <code>[ KOTLIN ]</code><br>
-      <code>[ RUST ]</code> <code>[ PYTHON ]</code><br>
-      <code>[ ANDROID_AOSP ]</code><br>
-      <code>[ LINUX_KERNEL ]</code><br><br>
-      <b>UTILITIES:</b><br>
-      <code>[ GIT ]</code> <code>[ DOCKER ]</code><br>
-      <code>[ GHIDRA ]</code> <code>[ ADB ]</code>
-    </td>
-  </tr>
-</table>
-</td>
-</tr>
-
-<tr valign="top">
-<!-- Window 3: File Explorer for Projects & Contact -->
-<td colspan="2">
-<br>
-<table width="100%" style="border: 2px outset #fff; background-color: #c0c0c0;">
-  <tr style="background-color: #000080; color: #fff;">
-    <td style="padding: 3px 5px;"><b>▋File Explorer</b></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; background-color: #fff; border: 1px solid #808080; font-size: 14px; line-height: 1.8;">
-      <b>C:\> dir /w</b><br>
-      <br>
-      <b>[PROJECTS]</b>       <b>[CONTACT]</b><br>
-      <a href="PROJECT_URL_1">Project-One.exe</a>  <a href="URL_TO_YOUR_LINKEDIN">LinkedIn.url</a><br>
-      <a href="PROJECT_URL_2">Project-Two.exe</a>  <a href="mailto:YOUR_EMAIL_HERE">Email.eml</a><br>
-      <a href="PROJECT_URL_3">Project-Three.exe</a>  <a href="https://t.me/YOUR_TELEGRAM_ID">Telegram.lnk</a><br>
-    </td>
-  </tr>
-</table>
+<!-- Block 2: Contact & Access -->
+<td width="50%">
+<h3 align="center"> SECURE CHANNEL </h3>
+<p align="center">
+  <a href="URL_TO_YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br>
+  <a href="mailto:YOUR_PROFESSIONAL_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 </td>
 </tr>
 </table>
 
-<!-- Taskbar -->
-<br>
-<div style="border-top: 2px outset #fff; background-color: #c0c0c0; padding: 4px; display: flex; align-items: center;">
-  <div style="border: 2px outset #fff; padding: 2px 8px; font-weight: bold; background-color: #c0c0c0;">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="16" alt="Start Icon"/> Start
-  </div>
-  <div style="flex-grow: 1; border-left: 2px solid #808080; border-right: 2px solid #808080; margin: 0 5px;"></div>
-  <div style="border: 2px inset #fff; padding: 0 5px;">
-    <b>EG</b> Egypt
-  </div>
-  <div style="border: 2px inset #fff; padding: 0 5px;">
-    🕒 10:24 PM
-  </div>
+---
+
+### <p align="center">CORE TECHNOLOGY MATRIX</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,android,c,cpp,rust,python,kotlin,java,bash,git,docker&theme=dark" />
+  </a>
+</p>
+
+---
+
+### <p align="center">LIVE PERFORMANCE ANALYTICS</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrolloUTA&show_icons=true&theme=nord&include_all_commits=true&count_private=true&border_color=2e3440&bg_color=2e3440&title_color=88c0d0&text_color=e5e9f0" alt="GitHub Stats"/>
 </div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/ChrolloUTA/ChrolloUTA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
