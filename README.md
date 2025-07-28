@@ -20,10 +20,10 @@ I'm an Android developer from Egypt with a very normal hobby: I spend my free ti
 
 ### Connect with Me
 <p align="left">
-  <a href="https://t.me/UTA_storage" target="_blank">
+  <a href="https://t.me/UTA_Cloud" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
   </a>
-  <a href="https://t.me/UTA_storage_chat" target="_blank">
+  <a href="https://t.me/UTA_Cloud_chat" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Chat%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat Group">
   </a>
 </p>
